@@ -1,6 +1,4 @@
-const { useState, 
-    // useEffect 
-} = React;
+const { useState } = React;
 
 const App = () => {
 
@@ -14,11 +12,10 @@ const App = () => {
     const buttonHandler = () => {
         fetch('https://catfact.ninja/fact')
             .then(response => response.json())
-            .then(data => 
-                {
-                    console.log(data);
-                    setCatFact(data);
-                });
+            .then(data => {
+                console.log(data);
+                setCatFact(data);
+            });
     }
 
     return (

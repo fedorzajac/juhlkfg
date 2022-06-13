@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@100;200;300;400&family=Noto+Serif+JP:wght@200&display=swap');
+
+article > p {
+    text-align: justify;
+    text-indent: 1.7rem;
+    font-weight: 400;
+    font-size: smaller;
+    /* background-color: #faf1cb; */
+}
+
+
+/* 
+.color {
+    color: #A2421B
+}
+.color {
+    color: #282828
+}
+.color {
+    color: #3B3836
+}
+.color {
+    color: #4F4945
+}
+.color {
+    color: #645C55
+}
+.color {
+    color: #7A6F65
+}
+.color {
+    color: #F0E5C0
+}
+.color {
+    color: #C8632A
+}
+.color {
+    color: #908376
+}
+.color {
+    color: #A59986
+}
+.color {
+    color: #BBAE96
+}
+.color {
+    color: #D2C4A5
+}
+.color {
+    color: #E8DBB7
+}
+.color {
+    color: #FAF1CB
+}
+.color {
+    color: #F8F5DA
+}
+.color {
+    color: #3B3836
+}
+.color {
+    color: #50795B
+}
+.color {
+    color: #85446F
+}
+.color {
+    color: #AC782E
+}
+.color {
+    color: #787327
+}
+.color {
+    color: #901B15
+}
+.color {
+    color: #908376
+}
+.color {
+    color: #7A6F65
+}
+.color {
+    color: #749B6F
+}
+.color {
+    color: #A76685
+}
+.color {
+    color: #548387
+}
+.color {
+    color: #CE9B3E
+}
+.color {
+    color: #989636
+}
+.color {
+    color: #BC362A
+}
+.color {
+    color: #FAF1CB
+} */
